@@ -22,5 +22,7 @@ To get started with the chatbot application, follow these steps:
      ```bash
      streamlit run script.py
      ```
-
+6. **Architecture:**
+   ![Architecture Diagram](architecture.png)
+   
 After completing these steps, you should have the chatbot application up and running on your local machine.
